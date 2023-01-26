@@ -1,0 +1,69 @@
+Symbols: 
+[] : list
+{} : dictionary
+
+Keywords: 
+
+if : jodi
+while: jetia_loike
+class: sreni
+object: bostu
+except: bahire
+continue: goi_thaka
+break: rokha
+in: vitorot
+as: dore
+elif: jodii
+not: nohoi
+global: sobore  
+false: misa
+true: hosa
+none: 
+else: jodiii
+return: ghuri_oha
+def: kam 
+with: logot
+pass: 
+import: moga
+and: aaru
+or: ba
+from: pora
+yield: bonua
+next: pisor
+finally: hekhot
+return:ghurai_diya
+print: likha
+range: porihot
+for: baabe
+
+Operators:
+
+! : 
+@ :
+****comment **** : comment
+# : single comment
+* : multiply
+** : exponentiation
+*** : root_over
+/ : divide
+// : divide with no floating point
+% : modulus
+- : subraction
++ : addition
+== : equal
+> : greater than
+< : less than
+
+and : 
+or: 
+not: 
+
+Operators Precedence:
+
+Atomic datatypes:
+
+
+Composite datatypes:
+Array or list : []
+Dictionary : {}
+Tuple: ()

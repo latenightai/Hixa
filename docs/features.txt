@@ -1,0 +1,6 @@
+1. It is inspired by python. 
+2. Hixa should provide control statements such as while, if.
+3. It should support all datatypes that python supports.
+4. Errors should be easy to read.
+5. Run fast.
+6. Simple such that a kid can read.
