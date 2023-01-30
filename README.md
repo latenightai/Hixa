@@ -7,6 +7,8 @@
 
 <p align="center">
 	<img alt="stars" src="https://img.shields.io/github/stars/latenightai/Hixa?style=social" />
+	<img alt="stars" src="https://img.shields.io/github/forks/latenightai/Hixa?style=social" />
+	<img alt="stars" src="https://img.shields.io/github/watchers/latenightai/Hixa?style=social" />
 </p>
 
 <h3>The Hixa Programing Language</h3>
