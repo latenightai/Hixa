@@ -1,12 +1,9 @@
-<center>![](https://github.com/latenightai/Hixa/blob/main/assets/logo.png)</center>
 
 <p align="center">
     <img width="200" src="https://github.com/latenightai/Hixa/blob/main/assets/logo.png" alt="Hixa Logo">
 </p>
 
-<h1 align="center">শিক্ষা</h1>
-
-### <center> An Educational Purpose Programming Language</center>
+<h3 align="center">An Educational Purpose Programming Language</h3>
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
