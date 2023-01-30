@@ -1,6 +1,10 @@
 <center>![](https://github.com/latenightai/Hixa/blob/main/assets/logo.png)</center>
 
-#<center>শিক্ষা</center>
+<p align="center">
+    <img width="200" src="https://github.com/latenightai/Hixa/blob/main/assets/logo.png" alt="Hixa Logo">
+</p>
+
+<h1 align="center">শিক্ষা</h1>
 
 ### <center> An Educational Purpose Programming Language</center>
 
