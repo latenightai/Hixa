@@ -1,4 +1,4 @@
-<center>![](https://)</center>
+<center>![](https://github.com/latenightai/Hixa/blob/main/assets/logo.png)</center>
 
 #<center>শিক্ষা</center>
 
