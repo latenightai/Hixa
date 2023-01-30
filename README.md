@@ -5,7 +5,9 @@
 
 <h3 align="center">An Educational Purpose Programming Language</h3>
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+<div align="center">
+![](https://img.shields.io/github/stars/latenightai/Hixa?style=social) ![](https://img.shields.io/github/forks/latenigthai/hixa?style=social)  ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/lathenightai/hixa?style=social) ![](https://img.shields.io/github/watchers/latenightai/Hixa?style=social)
+</div>
 
 <h3>The Hixa Programing Language</h3>
 
