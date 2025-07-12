@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hixa শিক্ষা - Assamese-English Programming Language</title>
+  <meta name="description" content="Hixa is a modern, bilingual programming language for learning and fun.">
+  <link rel="stylesheet" href="website/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="assets/logo.png">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="simple-navbar">
+    <div class="nav-content">
+      <a href="#" class="nav-logo">
+        <img src="website/assets/image.png" alt="Hixa Logo" class="navbar-img-logo" />
+      </a>
+      <div class="nav-links">
+        <a href="#docs">Docs</a>
+        <a href="https://github.com/hixa-lang/hixa/discussions" target="_blank">Community</a>
+        <a href="CONTRIBUTING.md" target="_blank">Contribute</a>
+        <a href="https://github.com/hixa-lang/hixa" target="_blank">Github</a>
+        <span class="version-badge">v0.1.0</span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="main-hero">
+    <div class="hero-center">
+      <div class="hixa-shiksha-logo" style="justify-content: center; margin-bottom: 0.5em;">
+        <span class="hixa-pill">Hixa</span><span class="shiksha-pill">শিক্ষা</span>
+      </div>
+      <h1 class="main-title">The Assamese-English Programming Language</h1>
+      <p class="main-tagline">A simple, modern language for learning, teaching, and fun. Bilingual keywords. Pythonic feel. Open source.</p>
+      <div class="ide-badge">Editor <span class="ide-badge-dev">(under development)</span></div>
+      <div class="hero-actions">
+        <a href="#try" class="btn btn-primary">Try it now</a>
+        <a href="#docs" class="btn btn-secondary">Learn More</a>
+      </div>
+      <div class="code-demo-block">
+        <div class="code-demo-header">
+          <span>Example</span>
+          <button class="copy-btn" onclick="copyDemoCode()" title="Copy code"><i class="fas fa-copy"></i></button>
+        </div>
+        <pre><code id="demo-code">// Hello World in Hixa
+kam main() {
+    print_kora("Hello, World!");
+}</code></pre>
+      </div>
+      <div class="hero-links">
+        <a href="#docs">Docs</a>
+        <a href="#examples">Examples</a>
+        <a href="https://github.com/hixa-lang/hixa/discussions" target="_blank">Community</a>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="simple-footer">
+    <div class="footer-content">
+      <div class="footer-copy">&copy; 2025 Hixa শিক্ষা. Made with ❤️ for learners of Assam.</div>
+    </div>
+  </footer>
+
+  <script src="website/script.js"></script>
+  <script>
+    function copyDemoCode() {
+      const code = document.getElementById('demo-code').innerText;
+      navigator.clipboard.writeText(code);
+      const btn = document.querySelector('.copy-btn');
+      btn.innerHTML = '<i class="fas fa-check"></i>';
+      setTimeout(() => { btn.innerHTML = '<i class="fas fa-copy"></i>'; }, 1500);
+    }
+  </script>
+</body>
+</html> 
