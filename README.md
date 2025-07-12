@@ -1,7 +1,7 @@
 # Hixa Programming Language
 
 <p align="center">
-    <img src="https://github.com/latenightai/Hixa/blob/main/assets/logo.png" alt="Hixa Logo">
+    <img src="https://github.com/latenightai/Hixa/blob/main/website/assets/logo.png" alt="Hixa Logo">
 </p>
 
 <h3 align="center">A Modern Educational Programming Language with Bilingual Support</h3>
