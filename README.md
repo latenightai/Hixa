@@ -1,4 +1,4 @@
-# Hixa Programming Language
+
 
 <p align="center">
     <img src="https://github.com/latenightai/Hixa/blob/main/website/assets/logo.png" alt="Hixa Logo">
