@@ -1,0 +1,47 @@
+venv/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.pytest_cache/
+.cache/
+.coverage
+.coverage.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*
+.envrc
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQLite
+*.sqlite3
+
+# Logs and temp
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+.history
+
+# Local
+.local/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
