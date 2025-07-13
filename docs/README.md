@@ -260,12 +260,3 @@ Hixa provides clear error messages for common issues:
 3. **Use functions to organize code**
 4. **Handle errors appropriately**
 5. **Write clear comments**
-
-## Future Features
-
-- Package management system
-- WebAssembly compilation
-- Improved IDE support
-- Concurrency primitives
-- Foreign function interface
-- Performance optimizations 
