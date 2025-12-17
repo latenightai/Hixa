@@ -551,32 +551,4 @@ Then you can type Hixa code interactively:
 8
 ```
 
-## Troubleshooting
-
-### Common Errors
-
-#### "Expected ';' or newline after expression"
-- Add semicolons after statements
-- Check for missing semicolons in function calls
-
-#### "Undefined variable"
-- Ensure variables are declared before use
-- Check variable scope
-
-#### "Expected '(' after 'if'"
-- Use parentheses around conditions: `jodi (condition)`
-
-#### "Expected '{' before function body"
-- Use curly braces for function bodies: `kam func() { }`
-
-### Debugging Tips
-1. Use `print_kora()` to debug variable values
-2. Check syntax with `hixa check program.hx`
-3. Start with simple examples and build complexity gradually
-4. Use the REPL for testing small code snippets
-
-## Conclusion
-
 Hixa is a powerful educational programming language that bridges the gap between traditional programming languages and local language support. With its bilingual keyword system, rich standard library, and simple syntax, it's perfect for learning programming concepts while supporting cultural and linguistic diversity.
-
-For more information, examples, and community support, visit the official Hixa documentation and community forums. 

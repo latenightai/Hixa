@@ -87,7 +87,7 @@ kam main() {
 
 #### Control Flow
 ```hixa
-kam check_number_kora(num) {
+kam check_number(num) {
     jodi (num > 0) {
         print_kora("Positive number");
     } nohole jodi (num < 0) {
@@ -100,7 +100,7 @@ kam check_number_kora(num) {
 
 #### Loops
 ```hixa
-kam count_kora() {
+kam count() {
     dhora i = 1;
     jetialoike (i <= 5); {
         print_kora(i);
@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 What's New?
 
-- **v0.1.0**: Initial release with bilingual keyword support
+- **v1.0.0**: Initial release with bilingual keyword support
 - Rich standard library with 50+ functions
 - Command-line interface with REPL
 - Comprehensive documentation
@@ -238,7 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: latenightai@gmail.com
+- 📧 Email: latenightai.yt@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/hixa-lang/hixa/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/hixa-lang/hixa/discussions)
 
